@@ -99,11 +99,9 @@ FPGA-Morse-Encoder/
 | Wrong Morse pattern | Verify digit input matches switches; check ROM mapping |
 | Timing too fast/slow | Verify 100 MHz clock at E3; check clock divider |
 
-## 📚 References
+## 📚 Video Demonstration: https://youtube.com/shorts/2gRnljeh5bA?feature=share
 
-- [Xilinx Nexys A7 Manual](https://digilent.com/reference/programmable-logic/nexys-a7/reference-manual)
-- [Morse Code Standards](https://en.wikipedia.org/wiki/Morse_code)
-- [Vivado Documentation](https://www.xilinx.com/support)
+
 
 ## 📝 License
 
