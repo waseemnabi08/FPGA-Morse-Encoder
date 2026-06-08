@@ -39,18 +39,14 @@ This project implements a Morse Code encoder that takes a 4-bit input (0-15) fro
 |-------|---------|---|-------|---------|
 | 0 | ----- | | 8 | ---.. |
 | 1 | .---- | | 9 | ----. |
-| 2 | ..--- | | A | .- |
-| 3 | ...-- | | B | -... |
-| 4 | ....- | | C | -.-. |
-| 5 | ..... | | D | -.. |
-| 6 | -.... | | E | . |
-| 7 | --... | | F | ..-. |
+| 2 | ..--- | | 
+| 3 | ...-- | |
+| 4 | ....- | | 
+| 5 | ..... | | 
+| 6 | -.... | |
+| 7 | --... | |
 
-**Timing:**
-- DOT: 50 ms
-- DASH: 150 ms
-- Element Space: 50 ms
-- Character Space: 150 ms
+
 
 ## 🚀 Quick Start
 
@@ -123,4 +119,3 @@ Contributions welcome! Feel free to report issues and submit pull requests.
 
 ---
 
-**Last Updated:** June 2026 | **Status:** Fully Functional
